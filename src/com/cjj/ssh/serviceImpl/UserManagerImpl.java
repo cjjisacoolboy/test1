@@ -10,7 +10,7 @@ public class UserManagerImpl implements UserManager{
 	@Override
 	public void regUser(UserForm user) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("hello");
 	}
 	
 }
